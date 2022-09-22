@@ -1,2 +1,2 @@
 #!/bin/bash
-OPTARG PATH="/action:$PATH"
+export OPTARG="/action:$PATH"
